@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Doan Company | Building Materials Distributor</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="script.js"></script>
+</head>
+<body>
+  <header class="navbar">
+    <div class="logo">Doan<span>Company</span></div>
+
+    <!-- Hamburger menu icon -->
+    <div class="menu-toggle" id="menu-toggle">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+
+    <nav class="nav-menu" id="nav-menu">
+      <ul class="nav-links">
+        <li><a href="index.html" class="active">Home</a></li>
+        <li><a href="products.html">Products</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <div class="hero-text">
+      <h1>Quality Building Materials, Reliable Distribution</h1>
+      <p>We deliver premium glass, cement, tiles, ceramics, terrazos, blockboards, and aluminium to your project site.</p>
+      <a href="products.html" class="btn-primary">Explore Our Products</a>
+    </div>
+  </section>
+
+  <section class="about">
+    <h2>About Us</h2>
+    <p>
+      Doan Company is a trusted supplier located in Karura, past Ruaka. 
+      We specialize in high-grade construction materials including one-way blue glass, bronze glass, tinted glass, and more.
+      Our mission is to provide strong, reliable, and affordable materials for homes, offices, and large-scale developments.
+    </p>
+  </section>
+
+  <footer>
+    <p>© 2025 Doan Company | Email: <a href="mailto:doan@gmail.com">doan@gmail.com</a> | Tel: 0707362651 | Karura past Ruaka</p>
+  </footer>
+</body>
+</html>
+
